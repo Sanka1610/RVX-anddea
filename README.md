@@ -45,7 +45,9 @@ To prevent automatic updates of YouTube and YouTube Music via the Play Store, it
 
 ・[**anddea**](https://github.com/anddea)
 
+[revanced patches](https://github.com/anddea/revanced-patches)
 
+──
 
 # RVX anddea Module
 
