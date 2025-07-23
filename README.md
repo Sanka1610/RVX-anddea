@@ -26,7 +26,8 @@ KernelSU系列
 
 **・推奨バージョン**
 
-v19.x
+YouTube : v19.47.53
+YouTube Music : v8.12.53
 
 ※プリインストールによって、YouTubeがv20.xになっている人向けに、v20.xもビルドしています。
 
