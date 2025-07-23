@@ -5,7 +5,7 @@
 This module applies ReVanced patches created by anddea to YouTube and YouTube Music.
 
 ## Download
-You can get the latest release [here](https://github.com/Sanka1610main/RVX-anddea-Module/releases/).
+You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea-Module/releases/).
 
 ※ The builds are generated using GitHub Actions.
 
