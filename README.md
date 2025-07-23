@@ -9,21 +9,21 @@ You can get the latest release [here](https://github.com/Sanka1610main/RVX-andde
 
 ## Supported
 
-**・Supported Apps**
+### Supported Apps
 
 YouTube,YouTube Music
 
-**・Supported Architecture**
+### Supported Architecture
 
 arm64-v8a only
 
-**・Root Environments**
+### Root Environments
 
 Magisk-based
 
 KernelSU-based
 
-**・Recommended Versions**
+### Recommended Versions
 
 YouTube : v19.47.53
 
@@ -37,13 +37,13 @@ To prevent automatic updates of YouTube and YouTube Music via the Play Store, it
 
 ## Credits
 
-・[**j-hc**](https://github.com/j-hc)
+### [**j-hc**](https://github.com/j-hc)
 
 [zygisk-detach](https://github.com/j-hc/zygisk-detach)
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) : Template repository for revanced-magisk-module
 
-・[**anddea**](https://github.com/anddea)
+### [**anddea**](https://github.com/anddea)
 
 [revanced patches](https://github.com/anddea/revanced-patches)
 
@@ -61,21 +61,21 @@ anddea氏が作成したReVancedパッチを、モジュールとして適用し
 
 ## サポート対象
 
-**・対応アプリ**
+### 対応アプリ
 
 YouTube、YouTube Music
 
-**・対応アーキテクチャ**
+### 対応アーキテクチャ
 
 arm64-v8aのみ
 
-**・ルート環境**
+### ルート環境
 
 Magisk系列
 
 KernelSU系列
 
-**・推奨バージョン**
+### 推奨バージョン
 
 YouTube : v19.47.53
 YouTube Music : v8.12.53
@@ -88,12 +88,12 @@ PlayStoreによるYouTubeとYouTube Musicの自動更新を無効化するため
 
 ## クレジット
 
-・[**j-hc**](https://github.com/j-hc)様
+### [**j-hc**](https://github.com/j-hc)様
 
 [zygisk-detach](https://github.com/j-hc/zygisk-detach)
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)の公開テンプレートレポジトリ
 
-・[**anddea**](https://github.com/anddea)様
+### [**anddea**](https://github.com/anddea)様
 
 [revanced patches](https://github.com/anddea/revanced-patches)
