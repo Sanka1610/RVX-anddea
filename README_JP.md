@@ -1,4 +1,4 @@
-[Back/戻る](https://github.com/Sanka1610/RVX-anddea-Module/)
+[Back/戻る](https://github.com/Sanka1610/RVX-anddea-Module)
 
 # RVX anddea Module
 
