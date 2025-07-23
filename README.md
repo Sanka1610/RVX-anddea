@@ -3,7 +3,7 @@
 This module applies ReVanced patches created by anddea.
 
 ## Download
-You can get the latest release [here].
+You can get the latest release [here](https://github.com/Sanka1610main/RVX-anddea-Module/releases/).
 
 ※ The builds are generated using GitHub Actions.
 
