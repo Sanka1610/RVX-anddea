@@ -19,7 +19,7 @@ YouTube,YouTube Music
 
 arm64-v8a only
 
-### Root solutions
+### Root Solutions
 
 Magisk-based
 
