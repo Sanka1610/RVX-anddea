@@ -1,4 +1,4 @@
-[Back/戻る](https://github.com/Sanka1610main/RVX-anddea-Module/)
+[Back/戻る](https://github.com/Sanka1610/RVX-anddea-Module/)
 
 # RVX anddea Module
 
@@ -6,9 +6,9 @@ anddea氏によって作成されたReVancedパッチを、モジュールとし
 
 ## ダウンロード
 
-最新のリリースは[こちら](https://github.com/Sanka1610main/RVX-anddea-Module/releases/)から入手できます。
+最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea-Module/releases/)から入手できます。
 
-※ビルドは[GitHub Actions](https://github.com/Sanka1610main/RVX-anddea-Module//actions/workflows/build.yml)によって生成されます。
+※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea-Module//actions/workflows/build.yml)によって生成されます。
 
 ## サポート対象
 
