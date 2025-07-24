@@ -42,6 +42,8 @@ YouTube Music : v8.12.53
 
 PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
 
+パッチ済みYouTubeにログインするために、[MicroG/GmsCore](https://github.com/microg/GmsCore)の利用を強く推奨します。
+
 ## クレジット
 
 ### [**j-hc**](https://github.com/j-hc)氏
