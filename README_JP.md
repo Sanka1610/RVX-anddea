@@ -2,7 +2,7 @@
 
 # RVX anddea
 
-anddea氏によるReVancedパッチを適用したモジュール、およびパッチ済みAPKを提供します。
+anddea氏によるReVancedパッチを適用した、モジュールおよびパッチ済みAPKを提供します。
 
 ## ダウンロード
 
