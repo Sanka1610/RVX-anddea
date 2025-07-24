@@ -41,6 +41,8 @@ YouTube Music : v8.12.53
 
 To prevent automatic updates of YouTube and YouTube Music via the Play Store, it is recommended to use [zygisk-detach](https://github.com/j-hc/zygisk-detach).
 
+To log in to the patched YouTube app, it is strongly recommended to use [MicroG/GmsCore](https://github.com/microg/GmsCore).
+
 ## Credits
 
 ### [**j-hc**](https://github.com/j-hc)
