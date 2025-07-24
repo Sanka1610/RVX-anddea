@@ -6,28 +6,28 @@ rv-brand = "anddea ReVanced"
 enable-magisk-update = true
 
 [YouTube]
-build-mode = "module"
+build-mode = "both"
 version = "auto"
 excluded-patches = ""
 included-patches = " 'MaterialYou' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "rvx-anddea"
-arch = "arm64-v8a"
+arch = "both"
 
 [YouTube-v20]
-build-mode = "module"
+build-mode = "both"
 version = "20.12.46"
 excluded-patches = ""
 included-patches = " 'MaterialYou' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "rvx-anddea-v20"
-arch = "arm64-v8a"
+arch = "both"
 
 [Music]
-build-mode = "module"
+build-mode = "both"
 version = "auto"
 included-patches = " 'MaterialYou' "
 excluded-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "rvx-music-anddea"
-arch = "arm64-v8a"
+arch = "both"
