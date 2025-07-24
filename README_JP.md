@@ -1,14 +1,14 @@
 [Back/戻る](https://github.com/Sanka1610/RVX-anddea-Module)
 
-# RVX anddea Module
+# RVX anddea
 
-anddea氏によって作成されたReVancedパッチを、モジュールとしてYouTubeとYouTube Musicに適用します。
+anddea氏によるReVancedパッチを適用したモジュール、およびパッチ済みAPKを提供します。
 
 ## ダウンロード
 
 最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea-Module/releases/)から入手できます。
 
-※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea-Module//actions/workflows/build.yml)によって生成されます。
+※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea-Module//actions/workflows/build.yml)によって生成されています。
 
 ## サポート対象
 
@@ -18,7 +18,7 @@ YouTube、YouTube Music
 
 ### 対応アーキテクチャ
 
-arm64-v8aのみ
+arm64-v8a、armabi-v7a
 
 ### ルート環境
 
@@ -30,14 +30,14 @@ KernelSU系列
 
 YouTube : v19.47.53
 
-※YouTube v20.xがプリインストールされている方向けに、v20.12.46に対応したビルドも提供しています。
+※YouTube v20.xがプリインストールされている端末向けに、v20.12.46を基にしたビルドも提供しています。
 
 YouTube Music : v8.12.53
 
 
 ## 使用上の注意
 
-PlayStoreによるYouTubeとYouTube Musicの自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
+PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
 
 ## クレジット
 
