@@ -1,8 +1,8 @@
 [Japanese/日本語](README_JP.md)
 
-# RVX anddea Module
+# RVX anddea
 
-This module applies ReVanced patches created by anddea to YouTube and YouTube Music.
+It provide modules and patched APKs with ReVanced patches created by anddea.
 
 ## Download
 You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea-Module/releases/).
@@ -17,7 +17,7 @@ YouTube,YouTube Music
 
 ### Supported Architecture
 
-arm64-v8a only
+arm64-v8a,armabi-v7a
 
 ### Root Solutions
 
@@ -29,7 +29,7 @@ KernelSU-based
 
 YouTube : v19.47.53
 
-※For users with preinstalled YouTube v20.x, we also provide builds based on v20.12.46.
+※It also provide builds based on v20.12.46 for devices with YouTube v20.x pre-installed.
 
 YouTube Music : v8.12.53
 
