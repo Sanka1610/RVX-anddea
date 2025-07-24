@@ -13,11 +13,15 @@ You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/re
 
 ### Supported Apps
 
-YouTube,YouTube Music
+YouTube
+
+YouTube Music
 
 ### Supported Architecture
 
-arm64-v8a,armabi-v7a
+arm64-v8a
+
+armabi-v7a
 
 ### Root Solutions
 
