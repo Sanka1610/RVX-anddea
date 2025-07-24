@@ -7,7 +7,7 @@ It provide modules and patched APKs with ReVanced patches created by anddea.
 ## Download
 You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/releases/).
 
-※ The builds are generated using GitHub Actions.
+※ The builds are generated using [GitHub Actions](https://github.com/Sanka1610/RVX-anddea//actions/workflows/build.yml).
 
 ## Supported
 
