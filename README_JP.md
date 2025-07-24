@@ -14,11 +14,15 @@ anddea氏によるReVancedパッチを適用した、モジュールおよびパ
 
 ### 対応アプリ
 
-YouTube、YouTube Music
+YouTube
+
+YouTube Music
 
 ### 対応アーキテクチャ
 
-arm64-v8a、armabi-v7a
+arm64-v8a
+
+armabi-v7a
 
 ### ルート環境
 
@@ -33,7 +37,6 @@ YouTube : v19.47.53
 ※YouTube v20.xがプリインストールされている端末向けに、v20.12.46を基にしたビルドも提供しています。
 
 YouTube Music : v8.12.53
-
 
 ## 使用上の注意
 
