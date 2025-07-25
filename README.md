@@ -23,7 +23,7 @@ arm64-v8a,armabi-v7a,x86,x64
 
 #### YouTube Music
 
-armabi-v7a
+arm64-v8a
 
 ### Root Solutions
 
