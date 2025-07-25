@@ -19,7 +19,17 @@ YouTube Music
 
 ### Supported Architecture
 
+#### YouTube
+
 arm64-v8a
+
+armabi-v7a
+
+x86
+
+x64
+
+#### YouTube Music
 
 armabi-v7a
 
@@ -31,11 +41,15 @@ KernelSU-based
 
 ### Recommended Versions
 
-YouTube : v19.47.53
+#### YouTube
+
+v19.47.53
 
 ※It also provide builds based on v20.12.46 for devices with YouTube v20.x pre-installed.
 
-YouTube Music : v8.12.53
+#### YouTube Music
+
+v8.12.53
 
 ## Notes
 
