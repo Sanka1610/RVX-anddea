@@ -55,6 +55,14 @@ To log in to the patched YouTube app, it is strongly recommended to use [MicroG/
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) : Template repository
 
+### [inotia00](https://github.com/inotia00)
+
+[revanced-extended patches](https://github.com/inotia00/revanced-patches).
+
 ### [**anddea**](https://github.com/anddea)
 
 [ReVanced Patches](https://github.com/anddea/revanced-patches)
+
+### [ReVanced Team](https://github.com/revanced)
+
+[MicroG](https://github.com/ReVanced/GmsCore/releases).
