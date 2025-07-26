@@ -65,4 +65,4 @@ To log in to the patched YouTube app, it is strongly recommended to use [MicroG/
 
 ### [ReVanced Team](https://github.com/revanced)
 
-[MicroG](https://github.com/ReVanced/GmsCore/releases).
+[MicroG](https://github.com/ReVanced/GmsCore/releases)
