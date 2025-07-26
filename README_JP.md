@@ -56,6 +56,14 @@ PlayStoreによる自動更新を無効化するために、[zygisk-detach](http
 
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)の公開テンプレートレポジトリ
 
-### [**anddea**](https://github.com/anddea)氏
+### [inotia00](https://github.com/inotia00)
 
-[revanced patches](https://github.com/anddea/revanced-patches)
+[ReVanced Patches](https://github.com/inotia00/revanced-patches).
+
+### [**anddea**](https://github.com/anddea)
+
+[ReVanced Patches](https://github.com/anddea/revanced-patches)
+
+### [ReVanced Team](https://github.com/revanced)
+
+[MicroG](https://github.com/ReVanced/GmsCore/releases)
