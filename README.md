@@ -19,11 +19,11 @@ YouTube,YouTube Music
 
 #### YouTube
 
-arm64-v8a,armabi-v7a,x86,x64
+arm64-v8a only
 
 #### YouTube Music
 
-arm64-v8a
+arm64-v8a only
 
 ### Root Solutions
 
