@@ -57,7 +57,7 @@ To log in to the patched YouTube app, it is strongly recommended to use [MicroG/
 
 ### [inotia00](https://github.com/inotia00)
 
-[ReVanced Patches](https://github.com/inotia00/revanced-patches).
+[ReVanced Patches](https://github.com/inotia00/revanced-patches)
 
 ### [**anddea**](https://github.com/anddea)
 
