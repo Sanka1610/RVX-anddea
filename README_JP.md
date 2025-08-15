@@ -48,6 +48,8 @@ PlayStoreによる自動更新を無効化するために、[zygisk-detach](http
 
 パッチ済みYouTubeにログインするために、[MicroG/GmsCore](https://github.com/microg/GmsCore)の利用を強く推奨します。
 
+Youtube、Youtube MusicにSU権限を与えることでより安定して利用できます。
+
 ## クレジット
 
 ### [**j-hc**](https://github.com/j-hc)氏
