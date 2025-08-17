@@ -8,7 +8,7 @@ anddea氏によるReVancedパッチを適用した、モジュールおよびパ
 
 最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea/releases/)から入手できます。
 
-※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea/actions/workflows/build.yml)によって生成されています。
+※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea/actions/workflows/build.yml)によって自動で生成されています。
 
 ## サポート対象
 
@@ -28,7 +28,7 @@ arm64-v8a
 
 ### ルート環境
 
-Magisk系列、KernelSU系列
+Magisk系列、KernelSU系列、APatch系列
 
 ### 対応バージョン
 
@@ -36,7 +36,9 @@ Magisk系列、KernelSU系列
 
 v19.47.53
 
-※YouTube v20.xがプリインストールされている端末向けに、v20.12.46を基にしたビルドも提供しています。
+v20.12.46
+
+※YouTube v20.xがプリインストールされている端末向けに提供しています。不安定な場合があるためできるだけ使わないでください。
 
 #### YouTube Music
 
@@ -44,28 +46,27 @@ v8.12.53
 
 ## 使用上の注意
 
-PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
+### root環境
 
-パッチ済みYouTubeにログインするために、[MicroG/GmsCore](https://github.com/microg/GmsCore)の利用を強く推奨します。
+Zygisk環境によって動作します。
 
-Youtube、Youtube MusicにSU権限を与えることでより安定して利用できます。
+ただし、Zygisk Assistantを利用する場合は、Youtube、Youtube MusicにSU権限を与える必要があります。
+
+PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を強く推奨します。
+
+### 非root環境
+
+署名が異なるため、元のYoutubeアプリとは別にインストールされます。
+
+ログインするために[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替を必要とします。
 
 ## クレジット
 
-### [**j-hc**](https://github.com/j-hc)氏
+### [**j-hc**](https://github.com/j-hc)
 
-[zygisk-detach](https://github.com/j-hc/zygisk-detach)
-
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)の公開テンプレートレポジトリ
-
-### [inotia00](https://github.com/inotia00)
-
-[ReVanced Patches](https://github.com/inotia00/revanced-patches).
+[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)の公開テンプレート
 
 ### [**anddea**](https://github.com/anddea)
 
 [ReVanced Patches](https://github.com/anddea/revanced-patches)
 
-### [ReVanced Team](https://github.com/revanced)
-
-[MicroG](https://github.com/ReVanced/GmsCore/releases)
