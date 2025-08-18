@@ -14,8 +14,6 @@ anddea氏によるReVancedパッチを適用した、モジュールおよびパ
 
 YouTube、YouTube Music
 
-### 対応アーキテクチャ
-
 ### YouTube
 
 #### 対応アーキテクチャ
