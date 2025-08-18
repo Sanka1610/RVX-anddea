@@ -49,8 +49,7 @@ Magisk系列、KernelSU系列、APatch系列
 ## サポート対象
 
  - ### 対応アプリ
-
-   - #### YouTube
+  - #### YouTube
 
      - 対応アーキテクチャ : arm64-v8a.armeabi-v7a、x86、x64
 
@@ -58,9 +57,11 @@ Magisk系列、KernelSU系列、APatch系列
 
        - ※v20.12.46は、YouTube v20.xがプリインストールされている端末向けに提供しています。不安定な場合があるため使用には注意してください。
 
-- YouTube Music
-    - 対応アーキテクチャ: arm64-v8a
-    - 対応バージョン: v8.12.53
+ - #### YouTube Music
+
+   - 対応アーキテクチャ : arm64-v8a
+
+   - 対応バージョン : v8.12.53
 
 - **環境**
   - root環境: Magisk系列、KernelSU系列、APatch系列
