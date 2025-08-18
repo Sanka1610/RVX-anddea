@@ -30,18 +30,28 @@ The builds are automatically generated using [GitHub Actions](https://github.com
       - Root Solutions : Magisk-based、KernelSU-based、APatch-based
 
 
-## Notes
-
-To prevent automatic updates of YouTube and YouTube Music via the Play Store, it is recommended to use [zygisk-detach](https://github.com/j-hc/zygisk-detach).
-
-To log in to the patched YouTube app, it is strongly recommended to use [MicroG/GmsCore](https://github.com/microg/GmsCore).
-
-
 ## Download
 
 You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/releases/).
 
 Choose either the module or the patched APK according to your environment.
+
+
+## Notes
+
+### Root Environment
+
+- Works with Zygisk or its alternatives.
+  
+  Note : If using Zygisk Assistant, SU permissions must be granted to YouTube and YouTube Music.
+
+- To prevent automatic updates from the Play Store,using [zygisk-detach](https://github.com/j-hc/zygisk-detach) is recommended.
+
+### Non-Root Environment
+
+- Requires [MicroG / GmsCore](https://github.com/microg/GmsCore) or an alternative.
+
+- Installed as a separate app from the original YouTube app.
 
 
 ## Credits
