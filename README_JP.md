@@ -52,7 +52,7 @@ Magisk系列、KernelSU系列、APatch系列
 
     - #### YouTube
 
-      - 対応アーキテクチャ : arm64-v8a.armeabi-v7a、x86、x64
+      - 対応アーキテクチャ : arm64-v8a、armeabi-v7a、x86、x64
 
       - 対応バージョン : v19.47.53、v20.12.46
 
@@ -70,7 +70,7 @@ Magisk系列、KernelSU系列、APatch系列
 
 
 
-  - 非root環境 : 元のアプリとは別APKとしてインストール
+  - 非root環境では、元のアプリとは別のアプリとしてインストールされます。
 
 
 
