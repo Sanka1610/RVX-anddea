@@ -48,12 +48,8 @@ Choose either the module or the patched APK according to your environment.
 
 ### [**j-hc**](https://github.com/j-hc)
 
-[revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) : Template repository
+  - [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 
 ### [**anddea**](https://github.com/anddea)
 
-[ReVanced Patches](https://github.com/anddea/revanced-patches)
-
-### [ReVanced Team](https://github.com/revanced)
-
-[MicroG](https://github.com/ReVanced/GmsCore/releases)
+  - [**ReVanced Patches**](https://github.com/anddea/revanced-patches)
