@@ -58,15 +58,19 @@ Magisk系列、KernelSU系列、APatch系列
 
         - ※v20.12.46は、YouTube v20.xがプリインストールされている端末向けに提供しています。不安定な場合があるため使用には注意してください。
 
-  - #### YouTube Music
+      - root環境 : Magisk系列、KernelSU系列、APatch系列
 
-    - 対応アーキテクチャ : arm64-v8a
+    - #### YouTube Music
 
-    - 対応バージョン : v8.12.53
+      - 対応アーキテクチャ : arm64-v8a
 
-- **環境**
-  - root環境: Magisk系列、KernelSU系列、APatch系列
-  - 非root環境: 元のアプリとは別APKとしてインストール
+      - 対応バージョン : v8.12.53
+
+      - root環境 : Magisk系列、KernelSU系列、APatch系列
+
+
+
+  - 非root環境 : 元のアプリとは別APKとしてインストール
 
 
 
