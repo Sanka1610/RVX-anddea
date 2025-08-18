@@ -10,7 +10,7 @@ anddea氏によるReVancedパッチを適用した、モジュールおよびパ
 
 ## サポート対象
 
-- ### 対応アプリ
+-### 対応アプリ
 
 YouTube、YouTube Music
 
