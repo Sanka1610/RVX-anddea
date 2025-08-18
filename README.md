@@ -9,35 +9,26 @@ The builds are automatically generated using [GitHub Actions](https://github.com
 
 ## Supported Targets
 
-### Supported Apps
+  - ### Supported Apps
 
-YouTube,YouTube Music
+    - #### YouTube
 
-### Supported Architecture
+      - Supported Architectures : arm64-v8a、armeabi-v7a、x86、x64
 
-#### YouTube
+      - Supported Versions : v19.47.53、v20.12.46
 
-arm64-v8a only
+        - ※Note : v20.12.46 is intended for devices with YouTube v20.x pre-installed. It may be unstable, so use with caution.
 
-#### YouTube Music
+      - Root Solutions : Magisk-based、KernelSU-based、APatch-based
 
-arm64-v8a only
+    - #### YouTube Music
 
-### Root Solutions
+      - Supported Architectures : arm64-v8a only
 
-Magisk-based,KernelSU-based
+      - Supported Versions : v8.12.53
 
-### Recommended Versions
+      - Root Solutions : Magisk-based、KernelSU-based、APatch-based
 
-#### YouTube
-
-v19.47.53
-
-※It also provide builds based on v20.12.46 for devices with YouTube v20.x pre-installed.
-
-#### YouTube Music
-
-v8.12.53
 
 ## Notes
 
@@ -46,21 +37,18 @@ To prevent automatic updates of YouTube and YouTube Music via the Play Store, it
 To log in to the patched YouTube app, it is strongly recommended to use [MicroG/GmsCore](https://github.com/microg/GmsCore).
 
 
-
 ## Download
+
 You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/releases/).
+
+Choose either the module or the patched APK according to your environment.
+
 
 ## Credits
 
 ### [**j-hc**](https://github.com/j-hc)
 
-[zygisk-detach](https://github.com/j-hc/zygisk-detach)
-
 [revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) : Template repository
-
-### [inotia00](https://github.com/inotia00)
-
-[ReVanced Patches](https://github.com/inotia00/revanced-patches)
 
 ### [**anddea**](https://github.com/anddea)
 
