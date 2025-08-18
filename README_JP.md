@@ -80,17 +80,17 @@ Magisk系列、KernelSU系列、APatch系列
 
 ### root環境
 
-Zygisk、またはその代替によって動作します。
+-Zygisk、またはその代替によって動作します。
 
-※Zygisk Assistantを利用する場合は、Youtube、Youtube MusicにSU権限を与える必要があります。
+  ※Zygisk Assistantを利用する場合は、Youtube、Youtube MusicにSU権限を与える必要があります。
 
-PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
+-PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
 
 ### 非root環境
 
-[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替によって動作します。
+-[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替によって動作します。
 
-元のYoutubeアプリとは別のアプリとしてインストールされます。
+-元のYoutubeアプリとは別のアプリとしてインストールされます。
 
 
 ## クレジット
