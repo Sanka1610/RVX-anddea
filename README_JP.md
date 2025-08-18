@@ -69,34 +69,28 @@ Magisk系列、KernelSU系列、APatch系列
       - root環境 : Magisk系列、KernelSU系列、APatch系列
 
 
-
-  - 非root環境では、元のアプリとは別のアプリとしてインストールされます。
-
-
-
-
-
-
 ## ダウンロード
 
 最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea/releases/)から入手できます。
+
+モジュールかパッチ済みAPKを選択して使用してください。
 
 
 ## 使用上の注意
 
 ### root環境
 
-Zygisk環境によって動作します。
+Zygisk、またはその代替によって動作します。
 
-ただし、Zygisk Assistantを利用する場合は、Youtube、Youtube MusicにSU権限を与える必要があります。
+※Zygisk Assistantを利用する場合は、Youtube、Youtube MusicにSU権限を与える必要があります。
 
-PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を強く推奨します。
+PlayStoreによる自動更新を無効化するために、[zygisk-detach](https://github.com/j-hc/zygisk-detach)の利用を推奨します。
 
 ### 非root環境
 
-署名が異なるため、元のYoutubeアプリとは別にインストールされます。
+[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替によって動作します。
 
-ログインするために[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替を必要とします。
+元のYoutubeアプリとは別のアプリとしてインストールされます。
 
 
 ## クレジット
