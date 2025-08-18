@@ -1,18 +1,16 @@
 [Back/戻る](https://github.com/Sanka1610/RVX-anddea)
 
+
 # RVX anddea
 
 anddea氏によるReVancedパッチを適用した、モジュールおよびパッチ済みAPKを提供します。
 
-## ダウンロード
+ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea/actions/workflows/build.yml)によって自動生成されています。
 
-最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea/releases/)から入手できます。
-
-※ビルドは[GitHub Actions](https://github.com/Sanka1610/RVX-anddea/actions/workflows/build.yml)によって自動で生成されています。
 
 ## サポート対象
 
-### 対応アプリ
+- ### 対応アプリ
 
 YouTube、YouTube Music
 
@@ -44,6 +42,12 @@ v20.12.46
 
 v8.12.53
 
+
+## ダウンロード
+
+最新のリリースは[こちら](https://github.com/Sanka1610/RVX-anddea/releases/)から入手できます。
+
+
 ## 使用上の注意
 
 ### root環境
@@ -59,6 +63,7 @@ PlayStoreによる自動更新を無効化するために、[zygisk-detach](http
 署名が異なるため、元のYoutubeアプリとは別にインストールされます。
 
 ログインするために[MicroG/GmsCore](https://github.com/microg/GmsCore)、またはその代替を必要とします。
+
 
 ## クレジット
 
