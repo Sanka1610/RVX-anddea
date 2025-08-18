@@ -2,14 +2,12 @@
 
 # RVX anddea
 
-It provide modules and patched APKs with ReVanced patches created by anddea.
+It provides modules and patched APKs with ReVanced patches created by anddea.
 
-## Download
-You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/releases/).
+The builds are automatically generated using [GitHub Actions](https://github.com/Sanka1610/RVX-anddea//actions/workflows/build.yml).
 
-※ The builds are generated using [GitHub Actions](https://github.com/Sanka1610/RVX-anddea//actions/workflows/build.yml).
 
-## Supported
+## Supported Targets
 
 ### Supported Apps
 
@@ -46,6 +44,11 @@ v8.12.53
 To prevent automatic updates of YouTube and YouTube Music via the Play Store, it is recommended to use [zygisk-detach](https://github.com/j-hc/zygisk-detach).
 
 To log in to the patched YouTube app, it is strongly recommended to use [MicroG/GmsCore](https://github.com/microg/GmsCore).
+
+
+
+## Download
+You can get the latest release [here](https://github.com/Sanka1610/RVX-anddea/releases/).
 
 ## Credits
 
